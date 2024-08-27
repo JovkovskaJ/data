@@ -1,0 +1,5 @@
+# Desktop service store (MacOS related)
+.DS_Store
+
+# Ignore all CSV files
+*.csv
