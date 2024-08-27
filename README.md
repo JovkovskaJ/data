@@ -12,10 +12,10 @@ Welcome to my collection of data related scripts and guides! Here you'll find va
 
 ### Analysis Scripts
 
-- [Session Analysis SQL Script](analysis/sql/session-analysis.sql) 
+- [Session Analysis SQL Script](analysis/sql/scripts/session-analysis.sql) 
 
 #### Session Analysis SQL Script
 
 This SQL script processes event data to analyze user sessions by breaking them down into smaller sub-sessions based on inactivity periods.
 
-[Read the detailed session analysis guide](analysis/sql/session-analysis.md)
+[Read the detailed session analysis guide](analysis/sql/docs/session-analysis.md)
